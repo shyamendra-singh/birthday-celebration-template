@@ -6,7 +6,7 @@ function Hearts() {
     const spawnHeart = () => {
       const heart = document.createElement("div");
       heart.className = "heart";
-      heart.textContent = "❤";
+      heart.textContent = "💛";
 
       const x = Math.random() * window.innerWidth;
       const size = 16 + Math.random() * 18;

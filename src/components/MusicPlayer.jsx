@@ -63,7 +63,7 @@ const MusicPlayer = forwardRef((props, ref) => {
     const audio = audioRef.current;
     if (audio) {
       // Set volume
-      audio.volume = 0.5;
+      audio.volume = 0.8;
 
       audio
         .play()
