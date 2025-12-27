@@ -15,13 +15,11 @@ function MessageCard({ isActive }) {
 
   const message = `Vartika,
 
-Your personalized birthday message goes here.
+I definitely don't need a special day to remind me of how amazing you are, but I'm glad we have one! 
 
-You can write multiple paragraphs to express your feelings,
-share memories, and make this special day even more memorable.
+When I look back to this year, I see a journey of growth (in terms of learnings and being stronger), laughter, and unforgettable memories. You've faced challenges head-on and emerged even more incredible. 
 
-This template supports multiple lines and formatting,
-so feel free to customize it completely to fit your style.
+Yaar... ese hi strong aur amazing banti jao. Keep chasing your dreams with that unstoppable spirit of yours. The world is yours to conquer, and I can't wait to see all the incredible things you'll achieve in the coming year.
 
 Happy Birthday! 🎉
 

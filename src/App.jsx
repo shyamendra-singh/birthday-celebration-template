@@ -105,7 +105,7 @@ function App() {
               </>
             )}
           </h1>
-          <p>Your personalized message goes here 💗</p>
+          <p>Now you're 22 year old...cheer to another year of joy and success! Believe me this upcoming year gonna be the best year of your life. In your 22 you'll be doing the most productive things of your life. Just keep going. May god always keep you blessed. I'm there with you to witness all your dreams come true.</p>
         </section>
 
         <Countdown
@@ -116,7 +116,7 @@ function App() {
         <section className="teaser">
           <h2 id="teaserHeading">
             {birthdayReached
-              ? "💖 Ready for your surprise! 💖"
+              ? "Ready for your surprise!"
               : "✨ A special celebration awaits you at midnight... ✨"}
           </h2>
           <p className="teaser-hint">Something magical is about to unfold 💫</p>
